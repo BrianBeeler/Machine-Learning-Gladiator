@@ -13,7 +13,7 @@ Second:
 
 The invaluable skill of prototyping models quickly. In the real world, it's often difficult to know which model will perform best without simply trying them.
 
-Finally, this exercise helps you. master the workflor of model building. For example, you'll get to practice:
+Finally, this exercise helps you. master the workflow of model building. For example, you'll get to practice:
 
 - Important data
 - Cleaning data
